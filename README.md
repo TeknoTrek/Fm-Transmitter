@@ -44,7 +44,7 @@ A 3D model of the assembled PCB is included to give you a better idea of how the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fm-transmitter.git
+   git clone https://github.com/TeknoTrek/fm-transmitter.git
    ```
 
 2. Open the project in KiCad and review the schematic and PCB layout.
