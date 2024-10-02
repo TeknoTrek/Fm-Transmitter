@@ -13,6 +13,13 @@ This FM transmitter is designed to broadcast audio signals using a microphone in
 - Compact PCB design
 - Easy to assemble
 
+## Watch the Build Process
+
+You can watch the full build process of this FM transmitter on my YouTube channel **Teknotrek**. Click the link below to see how the circuit is assembled, soldered, and tested:
+
+[Watch on YouTube](https://www.youtube.com/channel/UCJznzlcx0Fk7TkiWD7op2bw)
+
+
 ## Circuit Schematic
 
 ![FM Transmitter Schematic](https://raw.githubusercontent.com/TeknoTrek/Fm-Transmitter/refs/heads/main/images/fm-transmitter-circuit.jpg)
